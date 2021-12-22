@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NMesaC
 - 👀 I’m interested in Computer Vision, Robotics and Machine Learning
-- 🌱 I’m currently studying Electrical and Computer Engineering at Carnegie Mellon University (Graduate Spring '25)
+- 🌱 I’m currently studying Electrical and Computer Engineering at Carnegie Mellon University (Graduating Spring '25)
 - 💞️ I’m looking to collaborate on Robotics projects with a focus on Computer Vision
 - 📫 Send me a message on LinkedIn or on Github!
 
