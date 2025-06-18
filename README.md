@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NMesaC
-- 👀 I’m interested in Multimodal Machine Learning and Generative AI.
-- 🌱 I’m currently studying Electrical and Computer Engineering at Carnegie Mellon University (Graduating Spring '25)
+- 👀 I’m interested in Multimodal Machine Learning and Explainable AI.
+- 🌱 I’m currently studying Electrical and Computer Engineering at Carnegie Mellon University (Graduating Spring '26)
 - 💞️ Check out my website at nmesac.github.io
 - 📫 Send me a message on LinkedIn or on Github!
 <!---
